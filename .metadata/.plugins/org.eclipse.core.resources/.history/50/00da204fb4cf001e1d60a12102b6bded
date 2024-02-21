@@ -1,0 +1,18 @@
+package org.kh.java;
+
+public class Variable8 {
+	public static void main(String[] args) {
+		var num1 = 29.456;//가변할당, 타입이 자기 마음대로 바뀐다.(버전9 이하는 x표시로 오류가 난다.)
+		var num2 = 29;
+		var num3 = 'l';
+		var num4 = "이성하";
+		var num5 = true;
+		num1 = 67;
+		System.out.println("num1 : "+num1);
+		System.out.println("num2 : "+num2);
+		System.out.println("num3 : "+num3);
+		System.out.println("num4 : "+num4);
+		System.out.println("num5 : "+num5);
+	}
+
+}

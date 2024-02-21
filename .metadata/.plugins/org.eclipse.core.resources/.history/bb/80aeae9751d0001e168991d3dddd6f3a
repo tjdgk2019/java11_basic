@@ -1,0 +1,13 @@
+package org.kh.site;
+//대입 연산자 : 연산 후에 대입하는 연산자 +=, -=, *=, /=, %=, &=, |=, >>=, <<=, >>>=,^=(&=,|=은 하나만 사용하므로 2진수 연산이 된다.)
+public class Operation7 {
+	public static void main(String[] args) {
+		int a =20;
+		int b =15;
+		int c;
+		a+=b; //a=35(b를 a에 더해 대입한다.) , b=15
+		b-=a; //a=35, b=b-a-> b=-20
+		
+	}
+
+}

@@ -1,0 +1,21 @@
+package org.kh.java;
+
+public class Varialbe4 {
+	public static void main(String[] args) {
+		String name = "\'이성하\'";
+		short age = 29;
+		float height = 161.8f;
+		double weight = 0;
+		char init = 'k';
+		System.out.println("이름 :"+name);
+		
+		/*
+		 * 이스케이프 문자(\역슬래시 또는 원 표시)
+		 * \n : 줄바꿈
+		 * \t : 탭
+		 * \\ : \를 출력
+		 * \
+		 */
+		
+	}
+}

@@ -1,0 +1,8 @@
+package org.kh.java;
+//산술 연산(Arithmatic)<->논리 연산(Logical)
+public class Operation2 {
+	public static void main(String[] args) {
+		
+	}
+
+}

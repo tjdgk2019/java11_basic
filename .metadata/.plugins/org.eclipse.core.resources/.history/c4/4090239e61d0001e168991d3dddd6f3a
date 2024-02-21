@@ -1,0 +1,8 @@
+package org.kh.site;
+
+public class Operation8 {
+	public static void main(String[] args) {
+		
+	}
+
+}

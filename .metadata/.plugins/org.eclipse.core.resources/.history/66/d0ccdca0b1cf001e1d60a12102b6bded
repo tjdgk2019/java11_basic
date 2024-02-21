@@ -1,0 +1,11 @@
+package org.kh.java;
+
+public class Variable7 {
+	public static void main(String[] args) {
+		String name = "이성하";
+		int age = 29;
+		float height = 161.8f;
+		boolean pass = true;
+		double weight = 0;
+	}
+}
