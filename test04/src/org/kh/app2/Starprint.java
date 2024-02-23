@@ -16,21 +16,21 @@ public class Starprint {
 			System.out.println();
 		}
 		*/
-		/*
+		
 		for (int a=0;a<6;a++) {
 			for (int b=0;b<a;b++) {			
 				System.out.print("*");
 			}
 			System.out.println("");
 		}
-		*/
+		/*
 		for (int a=0;a<6;a++) {
 			for (int b=a-0;b<6;b++) {			
 				System.out.print("*");
 			}
 			System.out.println("");
 		}
-		
+		*/
 		for (int i=0;i<=6;i++) {
 			for (int j=0;j<6-i;j++) {			
 				System.out.print("*");
